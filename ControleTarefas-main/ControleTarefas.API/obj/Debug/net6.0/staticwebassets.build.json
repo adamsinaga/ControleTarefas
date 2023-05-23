@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vfZ4JyZW5AQBMfUGqLOUVdq6RAhtOSznk9Dkq1Kbmpg=",
+  "Source": "ControleTarefas.API",
+  "BasePath": "_content/ControleTarefas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
